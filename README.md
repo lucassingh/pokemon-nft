@@ -10,11 +10,11 @@ Pokemon NFT is a simple application, to learn how to use next server side render
 
 ![pokemon detail](https://user-images.githubusercontent.com/25686886/206200564-63ee5cc4-c956-4ef3-9f9c-b529fbfdfb56.png)
 
-## Getting Started
-
 ## Favourites section
 
 ![pokemon favorites](https://user-images.githubusercontent.com/25686886/206200643-cb9e33de-a46e-4c3a-9cdc-35839d13e6d5.png)
+
+## Getting Started
 
 First, run the development server:
 
