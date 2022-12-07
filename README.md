@@ -1,6 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Pokemon NFT
+
+Pokemon NFT is a simple application, to learn how to use next server side rendering. We get a list of Pokemon from an api generating static pages, and also the detail page. There is also a small functionality to add to favourites.
+
+### Home view
+
+![pokemon home](https://user-images.githubusercontent.com/25686886/206200442-b2df4427-2d21-47ad-ab34-52925841520a.png)
+
+### Detail view
+
+![pokemon detail](https://user-images.githubusercontent.com/25686886/206200564-63ee5cc4-c956-4ef3-9f9c-b529fbfdfb56.png)
 
 ## Getting Started
+
+## Favourites section
+
+![pokemon favorites](https://user-images.githubusercontent.com/25686886/206200643-cb9e33de-a46e-4c3a-9cdc-35839d13e6d5.png)
 
 First, run the development server:
 
