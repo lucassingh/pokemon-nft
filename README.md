@@ -2,6 +2,16 @@
 
 Pokemon NFT is a simple application, to learn how to use next server side rendering. We get a list of Pokemon from an api generating static pages, and also the detail page. There is also a small functionality to add to favourites.
 
+### Stack
+
+- Next js
+- Typescript
+- Axios
+
+### Project URL
+
+[Pokemon NFT](https://pokemon-nft-one.vercel.app/)
+
 ### Home view
 
 ![pokemon home](https://user-images.githubusercontent.com/25686886/206200442-b2df4427-2d21-47ad-ab34-52925841520a.png)
